@@ -1,0 +1,14 @@
+# requirements.txt
+# Minimal, rock-solid dependencies for MoodOS v1.0
+
+torch>=2.0.0
+numpy>=1.21.0
+sounddevice>=0.4.6
+openai>=1.30.0          # for moodvector → valence/arousal via Grok (optional)
+
+# Optional: for live plotting / debugging
+matplotlib>=3.5.0       # if you want plots later
+tqdm>=4.64.0            # progress bars
+
+# For Android/iOS export (only if you build mobile apps)
+# torch==2.4.0+cpu        # lightweight CPU-only wheel (use torch-mobile)
