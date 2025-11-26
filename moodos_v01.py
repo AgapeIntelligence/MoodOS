@@ -12,7 +12,7 @@ Features:
     • Real-time streaming with low latency
     • Biologically inspired: PLV + triadic phase consistency → stable affect representation
 
-Author:  [Your Name ]
+Author:  [Geneva Robinson]
 License: MIT
 GitHub:  https://github.com/yourname/moodos
 """
