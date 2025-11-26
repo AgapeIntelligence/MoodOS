@@ -14,7 +14,7 @@ Features:
 
 Author:  [Geneva Robinson]
 License: MIT
-GitHub:  https://github.com/yourname/moodos
+GitHub:  https://github.com/AgapeIntelligence/moodos
 """
 
 from __future__ import annotations
