@@ -16,21 +16,20 @@ build/
 *.bin
 *.torchscript
 
-# IDEs / Editors
+# IDE / OS
 .idea/
 .vscode/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
 Thumbs.db
 
-# Virtual environments
+# Environments
 venv/
 env/
 .venv/
+.env
 
 # Misc
 *.log
